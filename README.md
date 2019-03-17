@@ -2,27 +2,27 @@
 ---
 Webpack 4 Starter Kit (custom HTML & CSS). 
 
-## Table of Contents
+## Table of Contents   
 ---
-- [# Crowstart Webpack-4 Kit v1.0](#crowstart-webpack-4-kit-v10)
-- [## Table of Contents](#table-of-contents)
-- [## About the Project](#about-the-project)
-- [## Status](#status)
-- [## Directory Structure](#directory-structure)
-- [## Getting Started](#getting-started)
-- [## Built With](#built-with)
+- [Crowstart Webpack-4 Kit v1.0](#crowstart-webpack-4-kit-v10)
+- [Table of Contents](#table-of-contents)
+- [About the Project](#about-the-project)
+- [Status](#status)
+- [Directory Structure](#directory-structure)
+- [Getting Started](#getting-started)
+- [Built With](#built-with)
   - [Requirements](#requirements)
     - [How install Requirements](#how-install-requirements)
   - [Dependencies](#dependencies)
     - [How install Dependencies](#how-install-dependencies)
-- [## How to Use](#how-to-use)
+- [How to Use](#how-to-use)
   - [webpack.config.js](#webpackconfigjs)
   - [index.html](#indexhtml)
   - [.gitkeep](#gitkeep)
   - [.gitignore](#gitignore)
 - [Changelog](#changelog)
-- [## Authors](#authors)
-- [## License](#license)
+- [Authors](#authors)
+- [License](#license)
 
 ## About the Project
 ---
@@ -82,7 +82,7 @@ This section provide instructions for other developers how to use Crowstart Webp
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 - If needed, [install](http://blog.nodeknockout.com/post/65463770933/how-to-install-node-js-and-npm) `node` and `npm` (Node Package Manager).
-- Clone this repo with `git clone https://github.com/crowscript/webpack-4.git` or download the zip. For this step, use npm terminal.
+- Clone this repo with `git clone https://github.com/crowscript/webpack-4_starter-kit.git` or download the zip. For this step, use npm terminal.
 - In terminal, `cd` to the folder containing your project. Alternatively, you can type `cd ` and drag the location of the folder into your terminal and hit enter.
 - In terminal, type `npm install`. If (and _only_ if) `npm install` isn't working, try `sudo npm install`. This should install all [dependencies](#dependencies).
 - In terminal, enter `npm run build` to make dist folder or/and `npm run server` for server start (server itself won't to make dist folder).
@@ -109,7 +109,7 @@ How to install the requirements.
 
 `npm install`
 
-**tl;dr**: [Download CrowStart](https://github.com/crowscript/webpack-4.git) and run `npm install` in that directory to get started.
+**tl;dr**: [Download CrowStart Webpack-4 starter kit](https://github.com/crowscript/webpack-4_starter-kit.git) and run `npm install` in that directory to get started.
 
 To take advantage of CrowStart Web Starter Kit you need to:
 
@@ -145,7 +145,7 @@ npm install
 
 ## How to Use
 ---
-Open in your favorite code editor folder **crowstart-webpack-4_kit-v1.0** and start editing files in `src` folder.
+Open in your favorite code editor folder **webpack-4_starter-kit** and start editing files in `src` folder.
 If you want to change something in Webpack 
 
 ### webpack.config.js
